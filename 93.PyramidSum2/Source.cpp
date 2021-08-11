@@ -25,6 +25,7 @@ void depth(int _a, int _b) {
 	check.pop_back();
 }
 int main() {
+	printf("size:");
 	cin >> a;
 	for (int i = 0; i < a; i++) {
 		v.push_back(vector<int>());
